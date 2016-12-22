@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jasiewicz.wojciech</string>
+    <string name="question1">Ask for some questions.\n\n1.Which color occurred\n in the picture most often?\n</string>
+    <string name="question3">\n3.Which of the values of most frequent?</string>
+    <string name="question4">4.Enter the value of top-left corner.</string>
+    <string name="question5">5.Enter the value of all corners\'s sum.</string>
+    <string name="question2">"\n2.How many "</string>
+    <string name="question21">" boxes?"</string>
+</resources>
